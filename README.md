@@ -1,6 +1,6 @@
 # Juanda Gilang Purnomo
 
-Welcome to my GitHub portfolio! I'm passionate about [Cyber Security, Machine Learning], and here you'll find some of the projects I've worked on.
+Welcome to my GitHub portfolio! I'm passionate about [Backend Engineer, Software Development and, Machine Learning], and here you'll find some of the projects I've worked on.
 
 ## GitHub Stats
 
