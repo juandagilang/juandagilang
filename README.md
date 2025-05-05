@@ -22,18 +22,12 @@ Description of the project and what it does.
 
 ## Skills
 
-- Programming Languages: [PHP, Python, Javascript, C#, Java]
-- Frameworks: [List frameworks]
-- Tools: [List tools]
+- Programming Languages: [PHP, Python, Javascript, C#, Java, Golang, Dart]
+- Frameworks: [Codeigniter 4, VueJS, ReactJS]
+- Tools: [VScode, Android Studio]
 
 ## Contact
 
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me at [juandagilang7@gmail.com](mailto:juandagilang7@gmail.com).
 
-Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-Follow me on Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-## Blog
-
-Check out my blog where I write about [topics you're interested in] - [Your Blog](https://your-blog-url.com)
+Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/juanda-gilang)
