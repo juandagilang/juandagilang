@@ -22,7 +22,7 @@ Built and maintained the backend architecture with an integrated admin control p
 
 - Programming Languages: [PHP, Python, Javascript, C#, Java, Golang, Dart]
 - Frameworks: [Codeigniter 4, VueJS, ReactJS]
-- Tools: [VScode, Android Studio]
+- Tools: [VScode]
 
 ## Contact
 
