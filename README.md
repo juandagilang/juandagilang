@@ -19,8 +19,7 @@ Designing a professional company profile website with a modern and minimal touch
 
 Description of the project and what it does.
 
-![Project 2 Screenshot](<img width="1788" height="4168" alt="image" src="https://github.com/user-attachments/assets/a68bd056-cfb5-4473-9944-358cce017f51" />
-)
+![Project 2 Screenshot]<img width="1788" height="4168" alt="image" src="https://github.com/user-attachments/assets/15021f0b-21c4-439d-8128-98f5f7384ae6" />
 
 ## Skills
 
