@@ -12,14 +12,11 @@ Welcome to my GitHub portfolio! I'm passionate about <strong>Backend Engineer, S
 
 Designing a professional company profile website with a modern and minimal touch. The layout highlights clarity and simplicity, combining bold typography with clean visuals. Featuring a sleek navigation bar, impactful headlines, and high-quality imagery, the design reflects professionalism and trust. The use of soft gradients and balanced spacing ensures a user-friendly experience, while the overall look communicates reliability and global presence. .
 
-![Project 1 Screenshot]<img width="1788" height="3588" alt="image" src="https://github.com/user-attachments/assets/21ceba44-84e5-440b-9874-83c17e6c88ba" />
-
 
 ### Project 2 - [Paroki Tanjung Priok Gereja Santo Fransiskus Xaverius](https://www.parokitanjungpriok.org/vhome)
 
-Description of the project and what it does.
+Built and maintained the backend architecture with an integrated admin control panel, enabling the parish to manage content and updates with ease.
 
-![Project 2 Screenshot]<img width="1788" height="4168" alt="image" src="https://github.com/user-attachments/assets/15021f0b-21c4-439d-8128-98f5f7384ae6" />
 
 ## Skills
 
