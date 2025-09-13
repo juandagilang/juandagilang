@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm passionate about <strong>Backend Engineer, S
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandagilang-X&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandagilang&show_icons=true&theme=radical)
 
 ## Projects
 
